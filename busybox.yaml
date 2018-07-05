@@ -12,4 +12,4 @@ spec:
     name: busybox
   restartPolicy: Always
   nodeSelector:
-    kubernetes.io/hostname: de03-dev-aslan-kube-71 
+    kubernetes.io/hostname: de03-dev-aslan-kube-69
